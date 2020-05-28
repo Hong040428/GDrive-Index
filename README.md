@@ -26,9 +26,9 @@
 
 ### Simple and automatic way
 
-Open https://install.kenci.workers.dev/ (goindex-drive ver. 2.4)
-Auth and get the code
-Deploy the code to Cloudflare Workers
+1. Open https://install.kenci.workers.dev/ (goindex-drive ver. 2.4)
+2. Auth and get the code
+3. Deploy the code to Cloudflare Workers
 
 ### Manual way
 
