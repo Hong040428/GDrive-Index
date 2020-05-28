@@ -22,9 +22,9 @@
 
 ### 簡單、自動的方法
 
-1. 打开 https://install.kenci.workers.dev/ (goindex-drive ver. 2.4) 【英文】
-2. 授权然后获得函数
-3. 复制函数到 Cloudflare Workers
+1. 打開 https://install.kenci.workers.dev/ (goindex-drive ver. 2.4) 【英文】
+2. 授權然後獲得函數
+3. 複製函數到 Cloudflare Workers
 
 ### 手動的方法
 
