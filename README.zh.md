@@ -22,7 +22,9 @@
 
 ### 简单、自动的方法
 
-前往 [https://gdindex-code-builder.glitch.me/](https://gdindex-code-builder.glitch.me/)(英文) 并遵照它的指示。
+1. 打开 https://install.kenci.workers.dev/ (goindex-drive ver. 2.4) 【英文】
+2. 授权然后获得函数
+3. 复制函数到 Cloudflare Workers
 
 ### 手动的方法
 
