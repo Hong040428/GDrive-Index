@@ -26,7 +26,9 @@
 
 ### Simple and automatic way
 
-Go [https://gdindex-code-builder.glitch.me/](https://gdindex-code-builder.glitch.me/), and follow its instructions.
+Open https://install.kenci.workers.dev/ (goindex-drive ver. 2.4)
+Auth and get the code
+Deploy the code to Cloudflare Workers
 
 ### Manual way
 
